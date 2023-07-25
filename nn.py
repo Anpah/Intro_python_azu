@@ -1,0 +1,6 @@
+name = ("Nathaniel Ampah")  
+Country = ('Ghananian')
+print(" My name is " + name, 'i am 28 years old of age' + 'and i am a' + Country)
+a = ('what is your lastname')
+b = ('and firstname')
+print(a + b + name)
