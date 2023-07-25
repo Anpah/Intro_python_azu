@@ -1,5 +1,5 @@
 name = "nathaniel ampah"  
-Age =  28
+Age =  30
 print(" my name is " + name )
 print(Age)
 Experience = "is being good and hectic so far"
