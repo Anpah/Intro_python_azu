@@ -20,7 +20,7 @@ print("Average price for all products:$",Average_price)
 new_prices = [price - 5 for price in prices]
 print("New price list:", new_prices)
 
-# Calculate the total revenue generated from the products
+# Calculate the total revenue generated from the productsc
 
 total_revenue = sum(price * customers for price, customers in zip(prices, last_week))
 print("Total revenue generated: $", total_revenue)
